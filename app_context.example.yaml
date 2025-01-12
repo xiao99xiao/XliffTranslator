@@ -1,0 +1,27 @@
+preserve_names:
+  app_names: ["Sample App", "Sample App 2"]
+  product_models: []
+
+app_description: |
+  This is a sample app description.
+
+terminology:
+  - term: "Sample Term"
+    description: "A sample term description"
+    note: "A sample term note"
+  - term: "Sample Term 2"
+    description: "A sample term description 2"
+    example: "A sample term example"
+  - term: "Sample Term 3"
+    description: "A sample term description 3"
+    example: "A sample term example 3"
+
+style_guide:
+  tone: "Professional but friendly, like talking to a friend"
+  formality: "Casual but not sloppy - use everyday language"
+  technical_level: "Non-technical users - avoid formal or technical-sounding translations"
+  key_points:
+    - "Translate like you're explaining to a friend, not writing a manual"
+    - "Use words that people actually say in daily conversation"
+    - "Avoid stiff or formal translations that sound unnatural"
+    - "Think: How would you explain this to a friend in your language?"

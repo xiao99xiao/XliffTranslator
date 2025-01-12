@@ -1,0 +1,29 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE settings
+.vscode/
+.idea/
+*.sublime-*
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# App context
+app_context.yaml
+prompts.yaml
+
+# User scripts
+scripts/import_localizations.sh

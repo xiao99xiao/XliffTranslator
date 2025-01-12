@@ -1,0 +1,5 @@
+anthropic
+xmltodict
+argparse
+python-dotenv
+pyyaml 
